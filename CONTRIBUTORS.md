@@ -17,5 +17,6 @@
  - [Naman Gupta](https://github.com/namangupta1399)
  - [Tanimowo Emmanuel](https://github.com/Mannuel25)
  - [Ukpebor Nicholas](https://github.com/Ukpebor)
+ - [Jimoh Salamah](https://github.com/Salamah-Jimoh)
  
   <!-- end -->
